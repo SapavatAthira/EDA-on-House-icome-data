@@ -1,6 +1,41 @@
-corner
-matplotlib
-numpy
-pandas
-scipy
-seaborn
+corner:
+	The version of the corner is 2.2.2 (corner==2.2.2).
+	You can install this library using "pip".
+	corner is a Python library used to create corner plots. 
+	The corner plots also known as pair plot.
+	Used to visualize high-dimensional data distributions. 
+	It is commonly used in Bayesian inference and MCMC sampling.
+	Helps in understanding relationships between multiple parameters through scatterplot matrices.
+
+matplotlib:
+	The version of matplotlib is 3.8.2 (matplotlib==3.8.2).
+	You can install matplotlib using the command pip install matplotlib
+	matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+	Used to generate graphs, plots, and figures in scientific computing.
+
+NumPy: 
+	The version of NumPy is 1.26.3 (NumPy==1.26.3).
+	You can install all these Python libraries using pip.
+	NumPy is a fundamental package for numerical computing in Python, providing support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate 	on these arrays.
+	Used for numerical calculations, matrix operations, and handling large datasets.
+
+
+pandas:
+	The version of pandas is 2.2.0 (pandas==2.2.0).
+	You can install all these Python libraries using pip.
+	pandas is a powerful data analysis and manipulation library built on top of numpy.
+	It provides data structures like DataFrames and Series.
+	Used for data cleaning, transformation, and analysis in Python.
+
+scipy: 
+	The version of scipy is 1.11.4 (scipy  1.11.4).
+	You can install all these Python libraries using pip.
+	scipy is an open-source library for scientific and technical computing. 
+	It builds on numpy and provides functions for optimization, integration, interpolation, and statistics.
+	Used in data science and engineering for mathematical computations.
+
+seaborn:
+	The version of seaborn is 0.12.2 (seaborn==0.12.2).
+	You can install all these Python libraries using pip.
+	seaborn is a data visualization library built on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+	Used to create visually appealing and insightful statistical plots.
