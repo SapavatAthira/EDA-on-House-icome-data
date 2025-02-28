@@ -66,7 +66,6 @@ def main():
     file_path = r"C:\Users\sapav\Desktop\projects\EDA-on-House-icome-data\data.csv"
     df = pd.read_csv(file_path)
     df = preprocessing(df)
-    
     col = "Mthly_HH_Income"  
     plot_relational_plot(df)
     plot_categorical_plot(df)
